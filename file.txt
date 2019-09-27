@@ -1,3 +1,7 @@
 Ignore File
 
+<<<<<<< HEAD
 modified in GIT
+=======
+Github update
+>>>>>>> 00b4496901df337fe56f31d66c1b7b2ceaeb8a62
